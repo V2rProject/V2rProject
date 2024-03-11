@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **V2rProject/V2rProject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github.com/V2rProject/Hack_The_Code_2024/blob/main/Hack_POSTER.png" alt="LOL" border="3">
